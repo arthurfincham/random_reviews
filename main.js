@@ -24,11 +24,11 @@ const locations = [
 ]
 document.getElementById("palace").innerHTML = locations[location_num]
 
-const review_num = Math.floor(Math.random() * (3 + 1));
 const reviews = [
-  "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
-  "Ad dolore dignissimos asperiores dicta facere optio quod commodi nam tempore recusandae. Rerum sed nulla eum vero expedita ex delectus voluptates rem at neque quos facere sequi unde optio aliquam!",
-  "Tenetur quod quidem in voluptatem corporis dolorum dicta sit pariatur porro quaerat autem ipsam odit quam beatae tempora quibusdam illum! Modi velit odio nam nulla unde amet odit pariatur at!",
-  "Consequatur rerum amet fuga expedita sunt et tempora saepe? Iusto nihil explicabo perferendis quos provident delectus ducimus necessitatibus reiciendis optio tempora unde earum doloremque commodi laudantium ad nulla vel odio?"
+  "Their young staff read a script which consists in making excuses and do not care whatsoever about customers. Absolutely shocking. As far as I am concerned this is a scam as they advertise and sell a service that doesn't exist. ",
+  "We struggled to get any food and eventually gave up on having more than a starter. Waited a full hour to pay for that. Ridiculous and they were totally unapologetic!",
+  "Absolutely dreadful!!! The restaurant had no record of our booking. They said they couldn’t do a gluten tree afternoon tea then grudgingly changed their mind. Kept our party waiting for an hour!",
+  "Filled with young staff more interested in mucking about, chatting each other up and looking cool than actually helping customers. I sat there like the old grump for 10 minutes without being served, before giving up and ordered what I wanted online.",
+  "The last time we had Fiona's something wasn’t right with the fish. My children who savour every last bit of fish just ate the chips. The smell was not good and they & I refused to eat it. "
 ]
-document.getElementById("review").innerHTML = reviews[review_num]
+document.getElementById("review").innerHTML = reviews[location_num]
