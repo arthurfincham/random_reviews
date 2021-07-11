@@ -2,7 +2,7 @@ const rating = (Math.random() * 5) + 1;
 const starTotal = 5;
 const starPercentage = (rating / starTotal) * 100;
 const starPercentageRounded = `${Math.round(starPercentage / 10) * 10}%`;
-document.querySelector(".stars-inner").style.width = starPercentageRounded;
+document.getElementById("stars-inner").style.width = starPercentageRounded;
 
 const name_num = Math.floor(Math.random() * (4 + 1));
 const names = [
