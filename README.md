@@ -10,16 +10,7 @@ A random review card generator.
 
 <h3>Features</h3>
 <ul>
-  <li>Each profile image is randomly AI generated from [thispersondoesnotexist.com](https://thispersondoesnotexist.com)</li>
-  <li>Reviewer's rating is randomly generated. Stars are filled accordingly. Help from tutorial by [George Marksoukos](https://webdesign.tutsplus.com/tutorials/a-simple-javascript-technique-for-filling-star-ratings--cms-29450).</li>
-  <li>Stars are from an icon library called [Font Awesome](http://fontawesome.com)</li>
+  <li>Each profile image is randomly AI generated from <a href="https://thispersondoesnotexist.com">thispersondoesnotexist.com</a>. Read more <a href="https://www.theverge.com/tldr/2019/2/15/18226005/ai-generated-fake-people-portraits-thispersondoesnotexist-stylegan">here.</a></li>
+  <li>Reviewer's rating is randomly generated. Stars are filled accordingly. Help from tutorial by <a href="https://webdesign.tutsplus.com/tutorials/a-simple-javascript-technique-for-filling-star-ratings--cms-29450">George Marksoukos</a>.</li>
+  <li>Stars are from an icon library called <a href="http://fontawesome.com">Font Awesome.</a></li>
 </ul>
-
-<h3>Problems</h3>
-<ul>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
-
-<h3>:link: Links</h3>

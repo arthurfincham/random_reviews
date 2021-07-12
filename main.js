@@ -22,6 +22,7 @@ const locations = [
   "Starlight Sports, West End",
   "Fiona's Fish Shop, Archway"
 ]
+
 document.getElementById("palace").innerHTML = locations[location_num]
 
 const reviews = [
