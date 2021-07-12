@@ -1,4 +1,4 @@
-<h2>TITLE</h2>
+<h2>Bad Review Generator</h2>
 
 ![](https://img.shields.io/github/last-commit/arthurfincham/random_reviews)
 ![](https://img.shields.io/github/languages/count/arthurfincham/random_reviews)
